@@ -1,7 +1,7 @@
 # credit-card
-credit card
-[Demo Project]https://saaramousavi.github.io/credit-card/
 ![Screenshot 2024-08-23 012826](https://github.com/user-attachments/assets/792e0ca0-cf64-4b46-8ca9-eeedc5906902)
+
+[Demo Project]https://saaramousavi.github.io/credit-card/
 
 - Developed by Sara Mousavi
 
